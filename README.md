@@ -1,0 +1,3 @@
+1. The most challenging enhancements was fixing the placeholder text, closely followed by changing the font from px to REM. I found these both the most challenging, because of the trial and error involved in trying to eye the right fix. Luckily with devtools and live server, it was a surmountable task.
+2. Aria attributes provide additional context and meaning to to web elements as well as enabling screen readers to accurately interpret and communicate their purpose. 
+3. I found the dev tools to be very helpful, mostly because it tells you the ratio of the contrast very clearly. Lighthouse worked as a good secondary check. 
